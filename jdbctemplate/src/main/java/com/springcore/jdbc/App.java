@@ -38,7 +38,7 @@ public class App {
 //		customer.setName("Pavan");
 //		customer.setAddress("A-324 mayur vihar delhi");
 //		dao.createCustomer(customer);
-
+// sample github operation:
 		
 		//get customer by id 
 		 Customer c =dao.getCustomerById(26);
